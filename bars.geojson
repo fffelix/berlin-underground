@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399210700000026,
+          52.5274641
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Amano Bar",
+        "Address": "Auguststraße 43, 10119 Berlin, Germany",
+        "Description": "A cool bar with style."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388169999999946,
+          52.49191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Clash",
+        "Address": "Gneisenaustraße 2A, 10961 Berlin",
+        "Description": "Clash Im Mehringhof\nGneisenaustraße 2a 10961 Berlin U-Bhf Mehringdamm U6 / U7 fon: +49 (0) 30 325 263 87 info@clash-berlin.de Bar/cafe with affordable beer. Great spot to hang around with friends, play pool or flipper. Staff may be unfriendly and stressed. Also your lungs shouldn't be too sensitive against any sort of smoke."
+      }
+    }
+  ]
+}
