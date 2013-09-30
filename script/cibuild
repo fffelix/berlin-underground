@@ -1,11 +1,21 @@
 #!/bin/sh
 
-result=$(curl -X POST --data @bars.geojson $data http://geojsonlint.com/validate 2>/dev/null)
+## Test if used with argument
+
+if (( $# < 1 )) ; then
+	echo
+	echo "Please declare file to validate"
+	echo "Example:   ./cibuild bars.geojson"
+	echo >&2
+   exit 1
+fi
+
+result=$(curl -X POST --data @$1 $data http://geojsonlint.com/validate 2>/dev/null)
 
 if [ "$result" = "{\"status\": \"ok\"}" ]; then
-  echo "Valid geoJSON!"
+  echo "Yay!" $1 "is valid geoJSON!"
   exit 0
 else
-  echo "Invalid geoJSON"
+  echo "Oh noez," $1 "is invalid geoJSON"
   exit 1
 fi
