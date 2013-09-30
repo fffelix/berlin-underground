@@ -1,5 +1,7 @@
+Fork from [sjockers/berlin-underground](../sjockers/berlin-underground) to test github's GeoJSON feature.
+
 The Berlin Underground
-==================
+------------------
 
 We are a super-secret underground organisation for Berlin
 awesomeness. Aside from world domination, we aim to collect all the
