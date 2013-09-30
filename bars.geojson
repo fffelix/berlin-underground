@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "bar",
         "Name": "Amano Bar",
-        "Address": "Auguststraße 43, 10119 Berlin, Germany",
+        "Address": "Auguststraße 43, 10119 Berlin",
         "Description": "A cool bar with style."
       }
     },
@@ -31,12 +31,307 @@
         "Name": "Clash",
         "Address": "Gneisenaustraße 2A, 10961 Berlin",
         "Description": [
-        "Clash Im Mehringhof",
-        "Gneisenaustraße 2a 10961 Berlin, U-Bhf Mehringdamm U6 / U7",
-        "fon: +49 (0) 30 325 263 87 info@clash-berlin.de",
-        "Bar/cafe with affordable beer. Great spot to hang around with friends, play pool or flipper. Staff may be unfriendly and stressed. Also your lungs shouldn't be too sensitive against any sort of smoke."
+          "Clash Im Mehringhof",
+          "Gneisenaustraße 2a 10961 Berlin, U-Bhf Mehringdamm U6 / U7",
+          "fon: +49 (0) 30 325 263 87 info@clash-berlin.de",
+          "Bar/cafe with affordable beer. Great spot to hang around with friends, play pool or flipper. Staff may be unfriendly and stressed. Also your lungs shouldn't be too sensitive against any sort of smoke."
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.430349999999976,
+          52.48822999999999
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "SilverFuture",
+        "Address": "Weserstraße 206, 12047 Berlin",
+        "Description": [
+          "Weserstr. 206 12047 Berlin (Neukölln) Ubhf Hermannplatz",
+          "Very alternative bar/cafe surrounded by other great and cheap bars.",
+          "You shouldn't come here if you have problems with old trashy 90s hits or transgender people. CHEAP beer! Very open and friendly atmosphere. Smokey air."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384119999999939,
+          52.4944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Zyankali Bar",
+        "Address": "Großbeerenstraße 64, 10963 Berlin",
+        "Description": [
+          "Großbeerenstraße 64 10963 Berlin 030 2516333 zyankali.de",
+          "Dark styled bar but also very funny.",
+          "Very special, not quite cheap but good own beer and delicious absinthe."
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411395200000015,
+          52.5257827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "The Grand",
+        "Address": "Hirtenstraße 4, 10178 Berlin",
+        "Description": "Club and Bar in one location."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.432765700000004,
+          52.50558780000001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Fiese Remise",
+        "Address": "Köpenicker Straße 18-20, 10997 Berlin",
+        "Description": "Nette Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.425320000000056,
+          52.47385
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Fraulein Langer",
+        "Address": "Weisestraße 34, 12049 Berlin",
+        "Description": "A bit grungy but the beer is cheap."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.423846400000002,
+          52.47680310000001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Froschkoenig Neukölln",
+        "Address": "Weisestraße 17, 12049 Berlin",
+        "Description": "Literature and Pianobar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455989999999929,
+          52.50908
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Kptn. A. Müller",
+        "Address": "Simon-Dach-Straße 32, 10245 Berlin",
+        "Description": "Perfect after work beer. Still relaxed at the early hours of the evening and gets wild as more people want to play the table soccer. Highly reccomended."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438025700000026,
+          52.4692679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Lakai",
+        "Address": "Emser Straße 131, 12051 Berlin",
+        "Description": "In addition to our wide range of non-alcoholic and alcoholic drinks are delicious coffee - and weekends fresh CAKE!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.437223399999993,
+          52.49950370000001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Madame Claude",
+        "Address": "Lübbener Straße 19, 10997 Berlin",
+        "Description": "The greatest thing is the furniture being on the roof. Lot's of live music as well."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400662199999942,
+          52.5303635
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Mein Haus am See",
+        "Address": "Brunnenstraße 197, 10119 Berlin",
+        "Description": "Perfect combination of trendy tunes, downbeat decor and arrogant staff."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402990000000045,
+          52.49048999999999
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Anno 64",
+        "Address": "Gneisenaustraße 64, 10961 Berlin",
+        "Description": "A downbeat bar with a pool table, weekend football on a big screen, and many German locals. Relaxed, friendly, and unpretentious."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.471469999999954,
+          52.5107
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Supamolly",
+        "Address": "Jessnerstraße 41, 10247 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.324160000000006,
+          52.50517
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Schwarzes Cafe",
+        "Address": "Kantstraße 148, 10623 Berlin",
+        "Description": "Open 24 hours - breakfast all night long - best hummus of Berlin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406029999999987,
+          52.52471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "B11",
+        "Address": "Neue Schönhauserstraße 19, 10178 Berlin",
+        "Description": "Sports Bar with 9 billard tables, TVs and a table tennis table."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401870700000018,
+          52.529339
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "St. Oberholz",
+        "Address": "Rosenthaler Straße 72A, 10119 Berlin",
+        "Description": "You buy a Club Mate and then you spend hours there watching kitten photos in your MacBook... Man! Ain't we terrible? In Spain kitten photos will be banned next month."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36360000000002,
+          52.50162
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": " Viktoria Bar",
+        "Address": "Potsdamer Straße 102, 10785 Berlin",
+        "Description": "The real deal. An established western Berlin bar and one of the best choices for the perfect drink. High standard but open for everyone. My favs are the Ford Cocktail, Pick Me Up and the classic Dry Martini. Don't forget to try one of the sandwiches or the cheese plate! Check out the happy hour every day from 18.30 to 21.30 to get quality for little money."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.465310000000045,
+          52.49744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Salon - Zur wilden Renate",
+        "Address": "Alt-Stralau 70, 10245 Berlin",
+        "Description": "There's a labyrinth inside!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.288180000000011,
+          52.51567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "Name": "Zur Linde",
+        "Address": "Sophie-Charlotten-Straße 91, 14059 Berlin",
+        "Description": "Maybe the only chilled bar around there in Charlottenburg."
+      }
+    },
   ]
 }
