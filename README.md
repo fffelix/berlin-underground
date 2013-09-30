@@ -1,4 +1,4 @@
-Fork from sjockers/berlin-underground to test github's GeoJSON feature.
+Fork from [sjockers/berlin-underground](https://github.com/sjockers/berlin-underground) to test github's GeoJSON feature.
 
 The Berlin Underground
 ------------------
